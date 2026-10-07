@@ -1,4 +1,4 @@
-![Estático](https://img.shields.io/badge/Legion--del--Mal-Activa-green)
+![Estático](https://img.shields.io/badge/Legión--del--Mal-Activa-green)
 ![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Workflow](https://img.shields.io/github/actions/workflow/status/ksaborido/legion-del-mal/ci.yml)
