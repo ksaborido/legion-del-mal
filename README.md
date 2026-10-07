@@ -5,7 +5,7 @@
 ![Release](https://img.shields.io/github/v/release/ksaborido/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/ksaborido/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/ksaborido/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/ksaborido/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/ksaborido/legion-del-mal?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
