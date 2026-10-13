@@ -1,0 +1,19 @@
+name: Acceso a la Fortaleza Prohibida
+
+on: push
+
+jobs:
+    acceso-a-la-fortaleza:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: El agente llega a la fortaleza
+              run: |
+                echo "Agente ${{ github.actor }} ha llegado a la fortaleza prohibida"
+                echo ""
+                echo "Buscar los archivos de la Legión"
+                ls -la
+                echo ""
+                echo "Pero qué pasó? No hay archivos de la Legión"
+
+            
